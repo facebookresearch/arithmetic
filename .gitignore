@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+*.txt
+*.json
+*.h5
+*.ipynb
+
+run.py
+tester.py
+
+__pycache__/
